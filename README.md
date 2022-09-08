@@ -1,6 +1,6 @@
 # DATASET_METLIT
 
-This dataset contains 1,000 corpus-extracted discourses for which crowdsourced annotators provided (1) graded and binary judgements on whether they perceived the discourses as more metaphorical or more literal; (2) binary judgements on the choice between a synonymous pair of a literal and a metaphorical expression following the discourses in (1); and (3) lexical terms which triggered their binary decisions in (1). The judgements were collected and analyzed within two studies in various ways.  
+This dataset contains 1,000 corpus-extracted discourses for which crowdsourced annotators provided (1) graded and binary judgements on whether they perceived the discourses as more metaphorical or more literal; (2) binary judgements on the choice between a synonymous pair of a literal and a metaphorical expression following the discourses in (1); and (3) lexical terms which triggered their binary decisions in (1). The judgements were collected and analyzed within two studies ([this paper](https://www.ims.uni-stuttgart.de/documents/team/schulte/publications/workshop/discann-21.pdf) and [this paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.564.pdf)) in various ways.  
 
 For questions/comments/suggestions, please contact Prisca Piccirilli: prisca.piccirilli@ims.uni-stuttgart.de
 
